@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/css/index.css" line="50" mnemonic="3" />
+    <bookmark url="file://$PROJECT_DIR$/555.html" line="19" />
+    <bookmark url="file://$PROJECT_DIR$/js/index.js" line="19" />
+    <bookmark url="file://$PROJECT_DIR$/js/index.js" line="21" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c139d7f-10a1-44e8-869f-ac142a593ce1" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HTML/01.html" />
+        <option value="$PROJECT_DIR$/CSS/01.css" />
+        <option value="$PROJECT_DIR$/CSS/reset.css" />
+        <option value="$PROJECT_DIR$/index_bak.html" />
+        <option value="$PROJECT_DIR$/效果图/indx.html" />
+        <option value="$PROJECT_DIR$/index_11.html" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/01.html" />
+        <option value="$PROJECT_DIR$/css/01.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/555.html" />
+        <option value="$PROJECT_DIR$/2个点.html" />
+        <option value="$PROJECT_DIR$/02，练习.html" />
+        <option value="$PROJECT_DIR$/06.练习手册.html" />
+        <option value="$PROJECT_DIR$/js/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="162" />
+    <option name="y" value="19" />
+    <option name="width" value="783" />
+    <option name="height" value="674" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="小米网" type="b2602c69:ProjectViewProjectNode" />
+              <item name="小米网" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="小米网" type="b2602c69:ProjectViewProjectNode" />
+              <item name="小米网" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="小米网" type="b2602c69:ProjectViewProjectNode" />
+              <item name="小米网" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="代码" type="cbb8eebc:String" user="代码" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="代码" type="cbb8eebc:String" user="代码" />
+              <item name="css" type="cbb8eebc:String" user="css" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../My APP" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\代码" />
+      <recent name="C:\Users\Administrator\Desktop\代码\css" />
+      <recent name="C:\Users\Administrator\Desktop\代码\HTML" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\代码" />
+      <recent name="C:\Users\Administrator\Desktop\代码\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.06.练习手册.html">
+    <configuration name="02，练习.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/小米网/02，练习.html" />
+    <configuration name="06.练习手册.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/小米网/06.练习手册.html" />
+    <configuration name="555.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/小米网/555.html" />
+    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/小米网/index.html" />
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/js" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.02，练习.html" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.index.js" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.06.练习手册.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.555.html" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.06.练习手册.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.555.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.02，练习.html" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c139d7f-10a1-44e8-869f-ac142a593ce1" name="Default" comment="" />
+      <created>1521010524440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521010524440</updated>
+      <workItem from="1521010528035" duration="9909000" />
+      <workItem from="1521082660511" duration="11870000" />
+      <workItem from="1521165801526" duration="3551000" />
+      <workItem from="1521341555528" duration="14909000" />
+      <workItem from="1521441655834" duration="1368000" />
+      <workItem from="1521509835120" duration="4056000" />
+      <workItem from="1521524849187" duration="361000" />
+      <workItem from="1521527357305" duration="467000" />
+      <workItem from="1521528941276" duration="37000" />
+      <workItem from="1521530625701" duration="678000" />
+      <workItem from="1521531632419" duration="697000" />
+      <workItem from="1521608611215" duration="3821000" />
+      <workItem from="1521615292269" duration="613000" />
+      <workItem from="1521616118799" duration="159000" />
+      <workItem from="1521618746306" duration="490000" />
+      <workItem from="1521621833550" duration="281000" />
+      <workItem from="1521631097813" duration="1826000" />
+      <workItem from="1521632992098" duration="7341000" />
+      <workItem from="1521677877919" duration="1546000" />
+      <workItem from="1521772768588" duration="3930000" />
+      <workItem from="1521779621793" duration="32710000" />
+      <workItem from="1521851408662" duration="12877000" />
+      <workItem from="1521868226766" duration="7436000" />
+      <workItem from="1522024146695" duration="3875000" />
+      <workItem from="1522038213202" duration="2947000" />
+      <workItem from="1522047781210" duration="1408000" />
+      <workItem from="1522049300086" duration="7988000" />
+      <workItem from="1522060534485" duration="778000" />
+      <workItem from="1522062100060" duration="1412000" />
+      <workItem from="1522064030635" duration="540000" />
+      <workItem from="1522064677721" duration="5161000" />
+      <workItem from="1522110061205" duration="1146000" />
+      <workItem from="1522120834610" duration="173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="146361000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.140625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39901477" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index_bak.html" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/css/index.css" />
+    <entry file="file://$PROJECT_DIR$/index_bak.html" />
+    <entry file="file://$PROJECT_DIR$/css/reset.css" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/index_bak.html" />
+    <entry file="file://$PROJECT_DIR$/css/index.css" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/index_bak.html" />
+    <entry file="file://$PROJECT_DIR$/css/index.css" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/css/index.css" />
+    <entry file="file://$PROJECT_DIR$/index_bak.html" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/index_bak.html" />
+    <entry file="file://$PROJECT_DIR$/css/index.css" />
+    <entry file="file://$PROJECT_DIR$/../预习内容/03，系列三：HTML+CSS实现小米官网/代码+课件+笔记/02/js/index.js" />
+    <entry file="file://$PROJECT_DIR$/imgs/air.jpg" />
+    <entry file="file://$PROJECT_DIR$/imgs/bag.jpg" />
+    <entry file="file://$PROJECT_DIR$/imgs/baohu.jpg" />
+    <entry file="file://$PROJECT_DIR$/imgs/bluetoothheadset.jpg" />
+    <entry file="file://$PROJECT_DIR$/HTML/index.html" />
+    <entry file="file://$PROJECT_DIR$/HTML/index_bak.html" />
+    <entry file="file://$PROJECT_DIR$/imgs/xiaomi_logo.png" />
+    <entry file="file://$PROJECT_DIR$/imgs/mi4!160x110.jpg" />
+    <entry file="file://$PROJECT_DIR$/imgs/mi4.jpg" />
+    <entry file="file://$PROJECT_DIR$/imgs/chazuo!160x110.jpg" />
+    <entry file="file://$PROJECT_DIR$/index_bak.html" />
+    <entry file="file://$PROJECT_DIR$/效果图/dingbu.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/效果图/indx.html" />
+    <entry file="file://$PROJECT_DIR$/效果图/nav.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/效果图/mingxing.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/效果图/slide.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/效果图/slide_down.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/效果图/zhineng.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/mi-logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="129" column="16" lean-forward="false" selection-start-line="129" selection-start-column="12" selection-end-line="129" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22.css" />
+    <entry file="file://$PROJECT_DIR$/22.html" />
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2850">
+          <caret line="518" column="22" lean-forward="false" selection-start-line="518" selection-start-column="22" selection-end-line="518" selection-end-column="22" />
+          <folding>
+            <element signature="e#27#87#0" expanded="false" />
+            <element signature="e#108#150#0" expanded="false" />
+            <element signature="e#181#310#0" expanded="false" />
+            <element signature="e#343#380#0" expanded="false" />
+            <element signature="e#419#469#0" expanded="false" />
+            <element signature="e#502#632#0" expanded="false" />
+            <element signature="e#679#723#0" expanded="false" />
+            <element signature="e#772#795#0" expanded="false" />
+            <element signature="e#850#895#0" expanded="false" />
+            <element signature="e#938#1024#0" expanded="false" />
+            <element signature="e#1069#1114#0" expanded="false" />
+            <element signature="e#1163#1202#0" expanded="false" />
+            <element signature="e#1228#1289#0" expanded="false" />
+            <element signature="e#1326#1403#0" expanded="false" />
+            <element signature="e#1439#1501#0" expanded="false" />
+            <element signature="e#1543#1673#0" expanded="false" />
+            <element signature="e#1710#1843#0" expanded="false" />
+            <element signature="e#1890#1946#0" expanded="false" />
+            <element signature="e#2005#2045#0" expanded="false" />
+            <element signature="e#2092#2314#0" expanded="false" />
+            <element signature="e#2371#2481#0" expanded="false" />
+            <element signature="e#2516#2647#0" expanded="false" />
+            <element signature="e#2690#2715#0" expanded="false" />
+            <element signature="e#2753#2835#0" expanded="false" />
+            <element signature="e#2875#2986#0" expanded="false" />
+            <element signature="e#3039#3105#0" expanded="false" />
+            <element signature="e#3143#3230#0" expanded="false" />
+            <element signature="e#3284#3366#0" expanded="false" />
+            <element signature="e#3423#3502#0" expanded="false" />
+            <element signature="e#3567#3757#0" expanded="false" />
+            <element signature="e#3822#4012#0" expanded="false" />
+            <element signature="e#4071#4162#0" expanded="false" />
+            <element signature="e#4191#4270#0" expanded="false" />
+            <element signature="e#4305#4380#0" expanded="false" />
+            <element signature="e#4419#4505#0" expanded="false" />
+            <element signature="e#4546#4624#0" expanded="false" />
+            <element signature="e#4665#4779#0" expanded="false" />
+            <element signature="e#4820#4897#0" expanded="false" />
+            <element signature="e#4938#5013#0" expanded="false" />
+            <element signature="e#5054#5165#0" expanded="false" />
+            <element signature="e#5206#5280#0" expanded="false" />
+            <element signature="e#5317#5408#0" expanded="false" />
+            <element signature="e#5440#5520#0" expanded="false" />
+            <element signature="e#5573#5634#0" expanded="false" />
+            <element signature="e#5665#5728#0" expanded="false" />
+            <element signature="e#5771#5817#0" expanded="false" />
+            <element signature="e#5865#6042#0" expanded="false" />
+            <element signature="e#6112#6266#0" expanded="false" />
+            <element signature="e#6336#6454#0" expanded="false" />
+            <element signature="e#6487#6574#0" expanded="false" />
+            <element signature="e#6610#6710#0" expanded="false" />
+            <element signature="e#6749#6932#0" expanded="false" />
+            <element signature="e#6973#6996#0" expanded="false" />
+            <element signature="e#7037#7067#0" expanded="false" />
+            <element signature="e#7121#7188#0" expanded="false" />
+            <element signature="e#7242#7286#0" expanded="false" />
+            <element signature="e#7338#7409#0" expanded="false" />
+            <element signature="e#7437#7479#0" expanded="false" />
+            <element signature="e#7524#7608#0" expanded="false" />
+            <element signature="e#7665#7731#0" expanded="false" />
+            <element signature="e#7765#7807#0" expanded="false" />
+            <element signature="e#7844#7865#0" expanded="false" />
+            <element signature="e#7917#7957#0" expanded="false" />
+            <element signature="e#7997#8148#0" expanded="false" />
+            <element signature="e#8190#8213#0" expanded="false" />
+            <element signature="e#8261#8291#0" expanded="false" />
+            <element signature="e#8698#8737#0" expanded="false" />
+            <element signature="e#8758#8800#0" expanded="false" />
+            <element signature="e#8831#8930#0" expanded="false" />
+            <element signature="e#8964#9021#0" expanded="false" />
+            <element signature="e#9058#9119#0" expanded="false" />
+            <element signature="e#9165#9231#0" expanded="false" />
+            <element signature="e#9280#9341#0" expanded="false" />
+            <element signature="e#9393#9437#0" expanded="false" />
+            <element signature="e#9492#9541#0" expanded="false" />
+            <element signature="e#9596#9686#0" expanded="false" />
+            <element signature="e#9942#10033#0" expanded="false" />
+            <element signature="e#10097#10183#0" expanded="false" />
+            <element signature="e#10247#10339#0" expanded="false" />
+            <element signature="e#10393#10644#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/01.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="515" column="1" lean-forward="true" selection-start-line="515" selection-start-column="1" selection-end-line="515" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index_11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="7" lean-forward="false" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="347" column="46" lean-forward="false" selection-start-line="347" selection-start-column="46" selection-end-line="347" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2个点.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/555.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02，练习.html" />
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="66" column="30" lean-forward="false" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="293" column="27" lean-forward="false" selection-start-line="293" selection-start-column="27" selection-end-line="293" selection-end-column="27" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#li#3;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#li#4;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#4;n#ul#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#5;n#ul#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#6;n#ul#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#7;n#ul#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#8;n#ul#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#dl#0;n#div#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#dl#1;n#div#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#dl#2;n#div#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.练习手册.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
